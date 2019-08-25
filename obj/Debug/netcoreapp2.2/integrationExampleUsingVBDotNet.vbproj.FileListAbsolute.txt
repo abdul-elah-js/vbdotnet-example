@@ -1,0 +1,11 @@
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/bin/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.deps.json
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/bin/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.runtimeconfig.json
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/bin/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.runtimeconfig.dev.json
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/bin/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.dll
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/bin/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.pdb
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/obj/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.vbprojAssemblyReference.cache
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/obj/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.vbproj.CoreCompileInputs.cache
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/obj/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.AssemblyInfoInputs.cache
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/obj/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.AssemblyInfo.vb
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/obj/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.dll
+/Users/abdulelah/Projects/nana/integration-examples/integrationExampleUsingVBDotNet/obj/Debug/netcoreapp2.2/integrationExampleUsingVBDotNet.pdb
